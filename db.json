@@ -1,3 +1,185 @@
 {
+ "posts":[
+    { "id":1,
+    "title":
+      "Fifteen killed in Russian strike on rail station - Zelensky:",
+    "src": "https://s2.tvp.pl/images2/2/5/8/uid_258d17ff9b1906d56aed05cd1e6b8e881647674788273_width_907_play_0_pos_0_gs_0_height_515.jpg",
+    "description":
+      "The death toll from a Russian strike on a Ukrainian railway station has increased to 22, President Volodymyr Zelensky said on Wednesday as the country marked six months of war.Chaplino is our pain today. As of this moment, there are 22 dead, including five people who burned in a car. A youth died, he was 11 years old, a Russian rocket destroyed his house he said in his daily address, revising an earlier toll,Zelensky said the strike was right on the wagons at Chaplino station. Four passenger cars are on fire."
+  },
+  { "id":2,
+        "title":
+          "'Too dehydrated to cry' - a lethal trek for migrants:",
+        "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16C59/production/_126337239_ed1ac90c-a398-4a91-8a13-89356fbcc99a.jpg",
+        "description":
+          "Learn the words you need to communicate with confidence. And in modern times, Venice, Genoa, Portugal, Spain, France, and England, all sent forth emigrants to people foreign shores. Do the emigrants always select places hitherto uninhabited and barren,Through their tales, the doctors caught a glimpse of the struggle to survive on what has been described as the most treacherous part of the world's most dangerous migrant route at the end of which, they hope to find sanctuary in the US."
+      },
+
+  { "id":3,
+    "title":
+      "A police chief accused of botching the response to the fatal shooting:",
+    "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3B90/production/_125584251_b687df8b60df549ecdb26553601d86145ca04b68.jpg.webp",
+    "description":
+      "The local school board voted unanimously to fire Pete Arredondo, who had been on leave since June. His lawyers said in a written statement that he had been unaware anyone was inside the classrooms with the shooter.The firing came three months to the day since the attack and two weeks before the new school term begins.The attack at Robb Elementary School on 24 May was the deadliest US school shooting in nearly a decade."
+  },
+  { "id":4,
+    "title":
+    "Go-karting for French prisoners a mistake, admits Fresnes governor:",
+    "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C8AC/production/_126427315_3757f53d-61e7-4f71-a093-0e1e322ba28f.jpg",
+    "description": "Éric Dupond-Moretti ordered an investigation after a video of the event came to light at the end of last week.Right-wing politicians were quick to condemn the images, and it then emerged that two of the inmates who took part in some of the activities such as a tug-of-war were serving sentences for murder and rape. Other activities included a quiz and an obstacle course.The nine-page inquiry report was published on Tuesday which said that while permission had been given by the ministry, it had not had precise details about go-karting or use of a pool."
+  },
+      { "id":5,
+        "title":
+          "US actress and director Olivia Wilde has described being served custody:",
+        "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/162A9/production/_126439709_9e28e2fb-0e84-4749-8b61-421ce0fd75bb.jpg",
+        "description":
+          "Wilde was handed the documents in a brown envelope while talking about her new thriller Don't Worry Darling at CinemaCon in Las Vegas in April.Footage showed her looking surprised after opening the envelope.In any other workplace, it would be seen as an attack,she told Variety.It was really upsetting. It shouldn't have been able to happen. There was a huge breach in security, which is really scary."
+      },
+      { "id":6,
+        "title":
+          "The Russian-occupied Zaporizhzhia nuclear plant lost its electricity supply from the Ukraine:",
+        "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1547C/production/_126446178_1e545a8e41ff293215ef84526c70b9a25c911586.jpg.webp",
+        "description":
+          "Fires had earlier damaged overhead power lines, cutting the plant off.There is growing concern over fighting near the complex, which is the largest nuclear plant in Europe.If the diesel generators hadn't turned on, if the automation and our staff of the plant had not reacted after the blackout, then we would already be forced to overcome the consequences of the radiation accident, President Zelensky warned on Thursday night."
+      },
+      { "id":7,
+      "title":
+        "Dugong: Animal that inspired mermaid tales extinct in China:",
+      "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12FB7/production/_126415777_dugong3.creditpatricklouisy.jpg",
+      "description":
+        "Fish are one of the first vertebrates that came to life on this planet. They hold the basic blueprint for all different types of body structures found on the planet and has evolved into all sorts of unusual species,Like other sea cows, Dugong feeds on seagrasses and hence could mostly be spotted at seagrass beds, a specific marine habitat that is constantly deteriorating due to human activities.With its whale-like tail, Dugong, which inspired the mermaid myth, frequents the coastal waters of Indian Ocean and western Pacific Ocean."
+    },
+      { "id":8,
+        "title":
+          "Student loan forgiveness: Biden cancels $10,000 in student debt for millions:",
+        "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/3D25/production/_126435651_8c0c631189e8aeaaf98cdc3e8deeffa01c00e85c.jpg.webp",
+        "description": "Before they get to honoring military personnel and their loved ones, POTUS will be taking the podium to deliver remarks about a number of issues that are prevalent in the current political climate,I will never apologise for helping working Americans and the middle class, he said, adding that no high-income individual or high-income household will benefit from this action,Republicans and some moderate Democrats have said debt cancellation will add to inflation by giving Americans more money to spend."
+      }
+ ],
  
+ 
+    
+ "sports":[
+   
+      { "id":1,
+        "title":
+          "Alexander Isak : Newcastle United set to sign striker from Swedeen Sociedad in £60m deal:",
+        "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/C140/production/_126427494_gettyimages-1242670977-1.jpg",
+        "description":
+          "Newcastle are set to sign Real Sociedad striker Alexander Isak for a club record fee of about £60m,Isak's signing would double Newcastle's spending this summer to just short of £120m after already signing Matt Targett, Sven Botman and Nick Pope, and bring the total to around £200m since the new owners took over the club in October 2021.On Wilson, Howe said the striker's injury is not serious but the 30-year-old will be out for a couple of weeks."
+      },
+      { "id":2,
+        "title":
+          "Premier League clubs break summer transfer window spending record with week still to go:",
+          "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/130B4/production/_126440087_haaland_nunez_getty.jpg",
+          "description":"Premier League clubs have broken their record for spending in a summer transfer window, according to analysis from finance company Deloitte.Deloitte has calculated clubs have spent £1.5bn so far this summer, exceeding the previous record of £1.4bn in 2017.There is still a week to go until the transfer window closes at 23:00 BST on 1 September. Spending at the same point in 2021 was £895m and went on to reach £1.1bn."
+      },
+  
+      { "id":3,
+        "title":
+          "Thursday's gossip: Fofana, Maguire, Antony, Paqueta, De Jong, Dubravka:",
+        "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/921C/production/_126440473_-3f91bf44-48e8-4516-bfe5-b80a0c56f4ef.png",
+        "description":
+          "Chelsea may move for Manchester United and England defender Harry Maguire, 29, if they are unable to sign French centre-back Wesley Fofana, 21, from Leicester,Antony handed in a transfer request on Wednesday in order to make his desire to leave official.Ajax are holding out for £84m for 22-year-old Brazil winger Antony, who is determined to push through a move to Manchester United"
+      },
+      { "id":4,
+        "title":
+          "Tiger Woods & Rory McIlroy launch 'high-tech golf league' aimed at younger fans:",
+        "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/14783/production/_126434838_gettyimages-1408084656.jpg",
+        "description": "Golfers Tiger Woods and Rory McIlroy have launched a new 'high-tech league'  intended to appeal to younger fans - that will begin in 2024,The league will feature six, three-man teams competing on a data-rich, virtual course in a stadium settings.Each of the 18-hole contests will take just two hours to complete. The league - called TGL - will be run by TMRW Sports - the technology-focused sports company launched by Woods and McIlroy on Tuesday.."
+      },
+      { "id":5,
+      "title":
+        "PGA Tour increases prize money at 12 events to match LIV Golf:",
+      "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/17203/production/_126432749_gettyimages-1414663620.jpg",
+      "description":
+        "The PGA Tour is increasing prize money at 12 events to match those of LIV Golf, but the tour's chief says players who have already joined the breakaway league will not be welcomed back,The PGA Tour is increasing prize money at 12 events to match those of LIV Golf, but the tour's chief says players who have already joined the breakaway league will not be welcomed back. Commissioner Jay Monahan announced on Wednesday that 12 PGA Tour events would have an average purse of $20m (£16.9m)."
+    },
+    { "id":6,
+      "title":
+        "Worcester Warriors players and staff remain 'in the dark' over future:",
+      "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/4B5D/production/_126439291_shutterstock_editorial_12611100b.jpg",
+      "description":"Worcester Warriors players and staff remain in a 'state of limbo' with a pre-season fixture just over a week away,Earlier this month, HMRC hit the Premiership club with a winding-up petition over unpaid tax, believed to be in excess of £6m.While the coaches and playing group have continued to train, the non-playing staff have been told not to come into work.It is understood the club's bank accounts have also been frozen."
+    },
+
+    { "id":7,
+      "title":
+        "Which manager is under the most pressure after their team's start to the season:",
+      "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/467B/production/_126434081_bbc-sport-index-imagery-2-split-images-gradient-0444f0da-b5bc-4797-a1f3-47268b9e1499.jpg",
+      "description":
+        "If social media reactions were anything to go by, then both David Moyes and Steven Gerrard would have been sacked after last weekend's results,For many, 2022 feels hopeful. A new year presents an opportunity to start fresh. Although it's good to be positive -- and we need hope to keep moving forward -- leaders are still managing teams during a long-term crisis and must foster team agility and resilience to roll with the punches. "
+    },
+    { "id":8,
+      "title":
+        "Champions League: Real Madrid bucked trend to conquer Europe:",
+      "src": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/A0F3/production/_126430214_ancelotti_getty.jpg",
+      "description": "Before May's Champions League final, Carlo Ancelotti was asked what he thought of Liverpool,Jurgen Klopp has brought some new things to football. He's doing a great job.What he said after Real's rope-a-dope 1-0 win revealed more though, suggesting that while Klopp's side may be great at what they do, they are not able to do much else.Liverpool were easier to decipher than others, Ancelotti told Sky Sport Italia.They have a very clear identity and we could prepare the way that we did. We knew what strategy to take."
+    }
+     
+ ],
+
+
+ "rills":[
+   
+    { "id":1,
+      "title":
+        "YouTube joins Facebook in banning Andrew Tate:",
+      "src": "https://ichef.bbci.co.uk/news/976/cpsprodpb/151D7/production/_126378468_c4ebcd9a-f10c-40e6-9f82-44be210ffd6a.jpg.webp",
+      "description":
+        "The Google-owned social media site took action following Meta's decision to ban Mr Tate from Facebook and Instagram.The Google-owned social media site took action following Meta's decision to ban Mr Tate from Facebook and Instagram.The former kickboxer rose to fame in 2016 when he was removed from TV show Big Brother over a video which appeared to depict him attacking a woman,He went on to gain notoriety online - with Twitter banning him for saying women should bear responsibility for being sexually assaulted.At the time of his removal from Big Brother, in 2016, Mr Tate said the controversial video had been edited, calling it a total lie trying to make me look bad."
+    },
+    { "id":2,
+      "title":
+        "DATE NIGHT Nick Knowles, 59, and girlfriend Katie Dadzie, 32, look loved up on night out in London:",
+        "src": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_99638175.jpg?quality=90&strip=all",
+        "description":"The TV presenter walked arm in arm with Katie, 32, as they headed to swanky celebrity hotspot Soho House in White City.Keeping it casual, the Who Dares Wins star wore beige chinos, a grey t-shirt and a leather jacket, as well as brown leather shoes.Nick swept his dark locks back from his face, as he sported a neatly trimmed moustache and beard for the occasion.Meanwhile, Katie wore boot-cut blue jeans, a cropped white jumper and white shoes, as she let her natural curls flow freely."
+    },
+
+    { "id":3,
+      "title":
+        "FINAL GOODBYE Darius Campbell Danesh, He worried pals by going 'off-grid' in the months before his death:",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94bYWhU0uqcu5eSBVfFPLPA1hTrkFuLOG9Q&usqp=CAU",
+      "description":
+        "POP Idol star Darius Campbell Danesh worried pals by going “off-grid” in the months before his death.The Scottish singer, 41, who was found dead in a US apartment, would take weeks to respond to messages and seemed “a bit lost” when he finally replied, friends said.Darius was found dead in bed in an apartment block next to the renowned Mayo Clinic, in Rochester, Minnesota, on August 11."
+    },
+    { "id":4,
+      "title":
+        "Kim Kardashian beats Hillary Clinton in legal knowledge trivia quiz:",
+      "src": "https://thehill.com/wp-content/uploads/sites/2/2022/08/Collage-Maker-24-Aug-2022-02.02-PM.jpg?w=980&h=552&crop=1",
+      "description": "Reality star-turned-criminal justice reform advocate Kim Kardashian bested Hillary Clinton in a legal knowledge trivia contest during filming for Gutsy,The mother-daughter duo sat down with Kardashian, who in December announced she had passed her first baby bar exam, to discuss her criminal justice work, which the former Democratic presidential nominee and secretary of State called impressive."
+    },
+    { "id":5,
+    "title":
+      "Rihanna with a Tom Ford-era Gucci bag slung over her shoulder in August:",
+    "src": "https://assets.vogue.com/photos/6305013e1d864a5b9422bb83/master/pass/rih_2208_01.jpg",
+    "description":
+      "Vintage Dior is another favorite. Rihanna has several of the French fashion house's iconic saddle bags in her collection.Case in point: the megastar stepped out with a Tom Ford-era Gucci bag from spring/summer 1996 earlier this month, which was sourced from archivist Lab2022 and covered in the designer's iconic python print. It's not the first time RiRi has sported Tom Ford's Gucci designs either, with her 90s velvet monogrammed bag being a wardrobe staple. "
+  },
+  { "id":6,
+    "title":
+      "Kanye West won't be charged for allegedly punching man in Los Angeles:",
+    "src": "https://nypost.com/wp-content/uploads/sites/2/2022/08/kaney-west-punch-autograph-guy-2.jpg?quality=75&strip=all&w=744",
+    "description":
+      "'After a thorough and careful review of all the evidence, our office is declining to file based on no reasonable likelihood of conviction,' LA City Attorney spokesperson Rob Wilcox said.Kanye West will avoid at least one of several legal battles he's facing as prosecutors won’t charge him for allegedly punching a fan in January in Los Angeles, a spokesperson for the city attorney told Forbes on Tuesday."
+  },
+
+  { "id":7,
+    "title":
+      "Olivia Wilde: Shia LaBeouf fired from 'Don't Worry Darling' to keep Florence Pugh 'safe':",
+    "src": "https://nypost.com/wp-content/uploads/sites/2/2022/08/dont-worry-darling.jpg?quality=75&strip=all",
+    "description":
+      "As seen in the “Darling” trailer, Styles gives Pugh oral sex on a dining room table, and the couple also appears naked in bed,A lot came to light after this happened that really troubled me, in terms of his behavior, Wilde continued; in the months following the actor's exit from the film, LaBeouf's ex-girlfriend FKA Twigs sued him for sexual battery, assault, and emotional distress. LaBeouf then split with his longtime agency, CAA, and entered inpatient treatment. "
+  },
+  { "id":8,
+    "title":
+      "'Morning After' singer Maureen McGovern says she has early-stage Alzheimer's:",
+    "src": "https://nypost.com/wp-content/uploads/sites/2/2022/08/Maureen-McGovern-80.jpg?quality=75&strip=all",
+    "description": "Singer and actress Maureen McGovern will not perform concerts anymore, she said this week, because she has been diagnosed with 'posterior cortical atrophy with symptoms of Alzheimer's and/or Dementia,McGovern, who boasts a pure and powerful voice, is best known for the Oscar-winning hit song “The Morning After” from the 1972 film “The Poseidon Adventure.” It was No. 1 on the Billboard charts for two weeks in 1973. She also recorded the hit songs “We May Never Love Like This Again” from 1974’s “The Towering Inferno” and “Different Worlds” from the TV show Angie."
+  }
+   
+]
 }
+
+
+
+

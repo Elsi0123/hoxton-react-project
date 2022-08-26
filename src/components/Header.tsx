@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export function Header() {
   return (
     <header className="header">
-      <h1 className="logo">ABC News</h1>
+     <a href="http://127.0.0.1:5173/home" className="ahref"> <h1 className="logo">ABC News</h1></a>
       <nav className="header-list">
         <ul className="menu">
           <li className="menubar">
@@ -24,12 +24,12 @@ export function Header() {
           </li>
           <li className="menubar">
             <Link to={"/reel"} style={{ color: "white" }}>
-              Reel
+              Showbiz
             </Link>
           </li>
           <li className="menubar">
             <Link to={"/worklife"} style={{ color: "white" }}>
-              Worklife
+              Tech
             </Link>
           </li>
           <li className="menubar">

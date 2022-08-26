@@ -36,6 +36,7 @@
   color: #4a4a4a;
   font-weight: bold;
   float: left;
+  padding-left: 20px;
 }
  .madule-tutle{
   float: right;
@@ -50,16 +51,38 @@
   padding: 1rem;
 }
 .articleimg{
-  width: 300px;
+  width: 350px;
 }
 .article-list{
  list-style: none;
  display: grid;
- grid-template-columns: repeat(auto-fit, 310px) ;
+ grid-template-columns: repeat(auto-fit, 630px) ;
+ padding-left: 50px;
 
- gap: 0.8rem;
+ gap: 3rem;
 }
+.ahref{
+  text-decoration: none;
+}
+.href{
+  text-decoration: none;
+  color: black;
+}
+.hhref{
+  text-decoration: none;
+}
+.trends{
+  list-style: none;
+ display: grid;
+ grid-template-columns: repeat(auto-fit, 310px) ;
+ justify-content: center;
+ gap: 2rem;
+ 
 
+}
+.trendone{
+  border: 1px solid rgb(171, 171, 171);
+}
 .article{
   border: 1px solid rgb(171, 171, 171);
 
@@ -68,7 +91,17 @@
   display: grid;
 
 }
+.template{
+  display: grid;
+  
+  
+} 
 
+.friday{
+  text-align: end;
+  padding-right: 20px;
+  color: #848383;
+}
 .newsone{
   border: 1px solid rgb(171, 171, 171);
 }
@@ -76,6 +109,25 @@
   list-style: none;
  display: grid;
  grid-template-columns: repeat(auto-fit, 602px) ;
+  justify-content: center; 
+
+
+ gap: 0.8rem;
+}
+.news1{
+  list-style: none;
+ display: grid;
+ grid-template-columns: repeat(auto-fit, 752px) ;
+  justify-content: center; 
+
+
+ gap: 0.8rem;
+}
+.news2{
+  list-style: none;
+ display: grid;
+ grid-template-columns: repeat(auto-fit, 702px) ;
+  justify-content: center; 
 
 
  gap: 0.8rem;
