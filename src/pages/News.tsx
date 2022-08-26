@@ -19,14 +19,19 @@ export function News() {
       <br />
       <br />
       <div className="article-list">
+        
         {posts.map((posts) => (
           <div className="article">
+            <a href="http://127.0.0.1:5173/news" className="href">
             <img src={posts.src} width="628px" />
             <h1>{posts.title}</h1>
             <br />
             <h4>{posts.description}</h4>
+            </a>
           </div>
+
         ))}
+        
       </div>
     </div>
   );

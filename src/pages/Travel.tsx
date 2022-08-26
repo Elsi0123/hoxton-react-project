@@ -34,7 +34,7 @@ export function Travel() {
         {travel.map((travel) => {
           return (
             <div className="newsone">
-              <a href="http://127.0.0.1:5173/worklife" className="href">
+              <a href="http://127.0.0.1:5173/travel" className="href">
                 <img src={travel.src} width={700} />
                 <br />
                 <h1>{travel.title}</h1>
