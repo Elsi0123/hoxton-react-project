@@ -21,10 +21,12 @@ export function Reel() {
       <div className="article-list">
         {rills.map((rills) => (
           <div className="article">
+            <a href="http://127.0.0.1:5173/reel" className="href">
             <img src={rills.src} width="628px" />
             <h1>{rills.title}</h1>
             <br />
             <h4>{rills.description}</h4>
+            </a>
           </div>
         ))}
       </div>
